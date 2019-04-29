@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ProdectsBrowse</string>
+
+    <string-array name="type">
+        <item>Pc and Labtop</item>
+        <item>Mobiles</item>
+        <item>Batteries and Chargers</item>
+        <item>Cameras</item>
+        <item>Moblies Accessories</item>
+        <item>Headphones</item>
+    </string-array>
+
+    <string name="exit_confirm">Are you want a close?</string>
+</resources>
